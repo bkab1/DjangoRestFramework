@@ -1,0 +1,8 @@
+*.pyc
+*~
+
+__pycashe__
+venv
+dbsqlite3
+/static
+.DS_Store
